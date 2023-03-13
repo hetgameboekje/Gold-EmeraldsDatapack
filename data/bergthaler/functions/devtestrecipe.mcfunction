@@ -1,0 +1,1 @@
+data merge block ~ ~ ~ {Items:[{Count:1b,Slot:4b,id:"minecraft:bedrock"}]}
