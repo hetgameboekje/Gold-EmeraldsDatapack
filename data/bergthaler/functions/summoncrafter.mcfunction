@@ -1,3 +1,3 @@
-execute align xz positioned ~0.5 ~ ~0.5 run summon minecraft:armor_stand ~ ~ ~ {Tags:["crafter"]}
-setblock ~ ~ ~ dropper[facing=up]
-setblock ~ ~1 ~ crafting_table
+execute align xz positioned ~0.5 ~ ~0.5 run summon minecraft:armor_stand ~ ~-1 ~ {Tags:["crafter"]}
+setblock ~ ~-1 ~ dropper[facing=up]
+setblock ~ ~ ~ crafting_table
