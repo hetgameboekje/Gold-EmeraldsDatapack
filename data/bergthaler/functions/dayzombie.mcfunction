@@ -1,0 +1,1 @@
+execute as @a at @s run execute as @e[type=zombie] run data merge entity @s[type=zombie] {IsBaby:0}
